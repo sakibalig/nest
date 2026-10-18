@@ -179,5 +179,8 @@
       "type: code style": "Code style tweaks",
       "dependencies": "Dependencies"
     }
+  },
+  "overrides": {
+    "ws": "$ws"
   }
 }
